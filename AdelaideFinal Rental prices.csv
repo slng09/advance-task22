@@ -1,0 +1,1712 @@
+,postcode,suburb,city,state,statecode,1_br_flat,2_br_flat,3_br_flat,4_br_flat,1_br_house,2_br_house,3_br_house,4_br_house
+0,5000,Adelaide,Adelaide,South Australia,SA,305.0,450.0,550.0,400.0,162.5,425.0,450.0,452.5
+1,5001,Adelaide,Adelaide,South Australia,SA,305.0,450.0,550.0,400.0,162.5,425.0,450.0,452.5
+2,5159,Aberfoyle Park,Adelaide,South Australia,SA,211.0,320.0,370.0,400.0,185.0,380.0,345.0,425.0
+3,5000,City West Campus,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+4,5000,Halifax Street,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+5,5014,Albert Park,Adelaide,South Australia,SA,205.5,259.2,338.75,400.0,185.0,275.0,350.0,390.0
+6,5000,Hutt Street,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+7,5014,Alberton,Adelaide,South Australia,SA,210.0,277.5,338.75,400.0,185.0,292.5,347.5,450.0
+8,5000,Parliament House,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+9,5173,Aldinga,Adelaide,South Australia,SA,211.0,235.0,338.75,400.0,280.0,250.0,325.0,355.0
+10,5000,Rundle Mall,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+11,5173,Aldinga Beach,Adelaide,South Australia,SA,211.0,240.0,320.0,400.0,185.0,270.0,325.0,380.0
+12,5000,Station Arcade,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+13,5009,Allenby Gardens,Adelaide,South Australia,SA,211.0,290.0,320.0,400.0,185.0,370.0,380.0,482.5
+14,5000,Sturt Street,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+15,5114,Andrews Farm,Adelaide,South Australia,SA,211.0,194.0,290.0,400.0,212.5,202.0,290.0,335.0
+16,5010,Angle Park,Adelaide,South Australia,SA,230.0,240.0,338.75,400.0,185.0,97.87,215.0,404.0
+17,5005,Adelaide University,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+18,5117,Angle Vale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,404.0
+19,5005,The University Of Adelaide,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+20,5043,Ascot Park,Adelaide,South Australia,SA,220.0,281.25,320.0,395.0,176.0,292.5,365.0,475.0
+21,5005,University Of Adelaide,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+22,5035,Ashford,Adelaide,South Australia,SA,211.0,297.5,380.0,400.0,185.0,425.0,460.0,412.5
+23,5006,North Adelaide,Adelaide,South Australia,SA,310.0,360.0,480.0,400.0,372.5,395.0,570.0,782.5
+24,5076,Athelstone,Adelaide,South Australia,SA,211.0,320.0,345.0,400.0,185.0,320.0,397.5,550.0
+25,5006,North Adelaide Melbourne St,Adelaide,South Australia,SA,211.0,340.0,338.75,400.0,185.0,292.5,332.5,404.0
+26,5012,Athol Park,Adelaide,South Australia,SA,211.0,300.0,345.0,400.0,185.0,155.45,382.5,404.0
+27,5007,Bowden,Adelaide,South Australia,SA,253.0,395.0,352.1,400.0,260.0,252.8,416.0,404.0
+28,5072,Auldana,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,420.0,404.0
+29,5007,Brompton,Adelaide,South Australia,SA,211.0,360.0,395.0,400.0,335.0,360.0,422.5,532.5
+30,5091,Banksia Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,370.0,410.0
+31,5007,Hindmarsh,Adelaide,South Australia,SA,190.0,275.0,338.75,400.0,185.0,307.5,332.5,404.0
+32,5066,Beaumont,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+33,5007,Welland,Adelaide,South Australia,SA,211.0,375.0,338.75,400.0,185.0,320.0,450.0,360.0
+34,5042,Bedford Park,Adelaide,South Australia,SA,211.0,297.5,320.0,400.0,150.0,292.5,350.0,360.0
+35,5007,West Hindmarsh,Adelaide,South Australia,SA,220.0,300.0,370.0,400.0,185.0,325.0,415.0,470.0
+36,5052,Belair,Adelaide,South Australia,SA,225.0,275.0,338.75,400.0,185.0,292.5,387.5,555.0
+37,5008,Croydon,Adelaide,South Australia,SA,211.0,250.0,338.75,400.0,147.5,160.0,330.0,150.0
+38,5050,Bellevue Heights,Adelaide,South Australia,SA,222.5,275.0,360.0,400.0,185.0,305.0,355.0,400.0
+39,5008,Croydon Park,Adelaide,South Australia,SA,211.0,267.5,338.75,400.0,185.0,320.0,355.0,404.0
+40,5067,Beulah Park,Adelaide,South Australia,SA,211.0,270.0,555.0,400.0,185.0,345.0,415.0,720.0
+41,5008,Croydon Park South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+42,5009,Beverley,Adelaide,South Australia,SA,211.0,195.0,338.75,400.0,185.0,37.75,350.0,425.0
+43,5008,Devon Park,Adelaide,South Australia,SA,211.0,257.5,338.75,400.0,185.0,300.0,370.0,404.0
+44,5015,Birkenhead,Adelaide,South Australia,SA,211.0,315.0,338.75,400.0,185.0,395.0,370.0,480.0
+45,5008,Dudley Park,Adelaide,South Australia,SA,211.0,260.0,338.75,400.0,185.0,292.5,320.0,404.0
+46,5035,Black Forest,Adelaide,South Australia,SA,240.0,282.5,350.0,400.0,235.0,380.0,400.0,530.0
+47,5008,Renown Park,Adelaide,South Australia,SA,211.0,305.0,367.5,400.0,185.0,132.0,332.5,480.0
+48,5051,Blackwood,Adelaide,South Australia,SA,245.0,290.0,375.0,400.0,205.0,395.0,410.0,525.0
+49,5008,Ridleyton,Adelaide,South Australia,SA,100.0,400.0,425.0,500.0,185.0,405.0,415.0,250.0
+50,5084,Blair Athol,Adelaide,South Australia,SA,175.25,280.0,129.84,400.0,185.0,330.0,345.0,403.0
+51,5008,West Croydon,Adelaide,South Australia,SA,211.0,245.0,409.5,400.0,185.0,300.0,360.0,157.5
+52,5114,Blakeview,Adelaide,South Australia,SA,240.0,270.5,310.0,400.0,185.0,280.0,310.0,372.5
+53,5171,Blewitt Springs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,300.0
+54,5009,Kilkenny,Adelaide,South Australia,SA,211.0,295.0,338.75,400.0,150.0,292.5,310.0,404.0
+55,5109,Brahma Lodge,Adelaide,South Australia,SA,134.75,240.0,285.0,400.0,185.0,287.5,290.0,404.0
+56,5048,Brighton,Adelaide,South Australia,SA,350.0,315.0,417.5,400.0,185.0,292.5,435.0,527.5
+57,5010,Ferryden Park,Adelaide,South Australia,SA,247.5,275.0,338.75,400.0,185.0,280.0,350.0,400.0
+58,5083,Broadview,Adelaide,South Australia,SA,220.0,285.0,295.0,400.0,185.0,340.0,340.0,420.0
+59,5010,Regency Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+60,5011,Woodville,Adelaide,South Australia,SA,210.0,280.0,370.0,400.0,185.0,290.0,340.0,460.0
+61,5032,Brooklyn Park,Adelaide,South Australia,SA,217.5,260.0,338.75,400.0,185.0,320.0,395.0,650.0
+62,5011,Woodville Park,Adelaide,South Australia,SA,211.0,305.0,260.0,400.0,185.0,292.5,350.0,404.0
+63,5066,Burnside,Adelaide,South Australia,SA,211.0,347.5,417.5,400.0,185.0,350.0,570.0,615.0
+64,5011,Woodville South,Adelaide,South Australia,SA,211.0,290.0,450.0,400.0,185.0,290.0,400.0,550.0
+65,5110,Burton,Adelaide,South Australia,SA,211.0,275.0,322.5,400.0,185.0,292.5,310.0,345.0
+66,5011,Woodville West,Adelaide,South Australia,SA,242.5,290.0,390.0,400.0,185.0,355.0,402.5,404.0
+67,5038,Camden Park,Adelaide,South Australia,SA,160.0,277.5,338.75,335.0,185.0,315.0,380.0,447.5
+68,5074,Campbelltown,Adelaide,South Australia,SA,240.0,277.5,330.0,400.0,185.0,232.7,380.0,450.0
+69,5012,Mansfield Park,Adelaide,South Australia,SA,211.0,238.0,300.0,400.0,185.0,157.75,350.0,265.0
+70,5012,Woodville Gardens,Adelaide,South Australia,SA,176.0,230.0,338.75,400.0,185.0,72.0,312.0,404.0
+71,5014,Cheltenham,Adelaide,South Australia,SA,211.0,101.0,338.75,400.0,185.0,229.3,365.0,404.0
+72,5012,Woodville North,Adelaide,South Australia,SA,211.0,270.0,338.75,400.0,185.0,300.0,340.0,404.0
+73,5164,Christie Downs,Adelaide,South Australia,SA,232.5,255.0,242.0,400.0,95.0,243.4,300.0,365.0
+74,5013,Gillman,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,404.0
+75,5165,Christies Beach,Adelaide,South Australia,SA,222.5,247.5,350.0,370.0,220.0,285.0,320.0,392.5
+76,5013,Ottoway,Adelaide,South Australia,SA,211.0,250.0,338.75,400.0,185.0,292.5,320.0,450.0
+77,5062,Clapham,Adelaide,South Australia,SA,211.0,260.0,338.75,400.0,185.0,320.0,395.0,404.0
+78,5013,Pennington,Adelaide,South Australia,SA,211.0,255.0,338.75,400.0,244.175,296.0,315.0,350.0
+79,5039,Clarence Gardens,Adelaide,South Australia,SA,211.0,280.0,338.75,400.0,185.0,350.0,365.0,400.0
+80,5013,Rosewater,Adelaide,South Australia,SA,211.0,245.0,338.75,400.0,370.0,305.0,350.0,370.0
+81,5034,Clarence Park,Adelaide,South Australia,SA,250.0,290.0,390.0,400.0,185.0,400.0,505.0,500.0
+82,5013,Rosewater East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+83,5157,Clarendon,Adelaide,South Australia,SA,197.5,275.0,338.75,400.0,185.0,292.5,350.0,404.0
+84,5013,Wingfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,280.0,332.5,404.0
+85,5085,Clearview,Adelaide,South Australia,SA,195.0,265.0,320.0,400.0,185.0,300.0,350.0,420.0
+86,5042,Clovelly Park,Adelaide,South Australia,SA,200.0,305.0,365.0,400.0,185.0,355.0,415.0,417.5
+87,5069,College Park,Adelaide,South Australia,SA,211.0,330.0,338.75,400.0,185.0,385.0,332.5,1350.0
+88,5081,Collinswood,Adelaide,South Australia,SA,225.0,300.0,450.0,400.0,185.0,360.0,420.0,630.0
+89,5014,Hendon,Adelaide,South Australia,SA,195.0,189.5,338.75,400.0,185.0,292.5,330.0,404.0
+90,5041,Colonel Light Gardens,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,380.0,400.0,507.5
+91,5014,Queenstown,Adelaide,South Australia,SA,180.0,245.0,338.75,400.0,185.0,320.0,372.5,400.0
+92,5051,Coromandel Valley,Adelaide,South Australia,SA,240.0,275.0,338.75,400.0,185.0,292.5,375.0,507.5
+93,5014,Royal Park,Adelaide,South Australia,SA,211.0,335.0,420.0,400.0,185.0,340.0,370.0,404.0
+94,5033,Cowandilla,Adelaide,South Australia,SA,250.0,237.5,360.0,400.0,185.0,272.5,430.0,390.0
+95,5051,Craigburn Farm,Adelaide,South Australia,SA,120.0,275.0,338.75,400.0,185.0,292.5,542.5,670.0
+96,5015,Ethelton,Adelaide,South Australia,SA,211.0,295.0,338.75,400.0,185.0,275.0,350.0,500.0
+97,5114,Craigmore,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,165.0,292.5,292.5,377.5
+98,5015,Glanville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,215.0,300.0,495.0,404.0
+99,5015,Port Adelaide,Adelaide,South Australia,SA,245.0,395.0,365.0,300.0,50.0,317.5,395.0,404.0
+100,5016,Largs Bay,Adelaide,South Australia,SA,212.5,280.0,338.75,400.0,185.0,392.5,400.0,430.0
+101,5041,Cumberland Park,Adelaide,South Australia,SA,211.0,335.0,338.75,400.0,185.0,375.0,450.0,404.0
+102,5016,Largs North,Adelaide,South Australia,SA,175.0,260.0,338.75,400.0,185.0,330.0,380.0,420.0
+103,5047,Darlington,Adelaide,South Australia,SA,160.0,355.0,338.75,400.0,185.0,292.5,370.0,640.0
+104,5016,Peterhead,Adelaide,South Australia,SA,211.0,300.0,307.5,400.0,185.0,367.5,395.0,404.0
+105,5113,Davoren Park,Adelaide,South Australia,SA,124.68,275.0,280.0,400.0,185.0,225.0,245.0,315.0
+106,5017,Osborne,Adelaide,South Australia,SA,200.0,240.0,338.75,400.0,185.0,99.0,365.0,404.0
+107,5041,Daw Park,Adelaide,South Australia,SA,211.0,300.0,315.0,400.0,185.0,395.0,392.5,404.0
+108,5017,Taperoo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,275.0,300.0,427.5
+109,5075,Dernancourt,Adelaide,South Australia,SA,211.0,345.0,330.0,400.0,185.0,292.5,365.0,450.0
+110,5018,North Haven,Adelaide,South Australia,SA,211.0,325.0,325.0,400.0,185.0,325.0,420.0,420.0
+111,5018,Outer Harbor,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+112,5110,Direk,Adelaide,South Australia,SA,211.0,270.0,315.0,400.0,185.0,292.5,315.0,350.0
+113,5019,Exeter,Adelaide,South Australia,SA,211.0,350.0,338.75,400.0,185.0,292.5,435.0,350.0
+114,5048,Dover Gardens,Adelaide,South Australia,SA,211.0,149.7,400.0,400.0,185.0,375.0,400.0,450.0
+115,5019,Semaphore,Adelaide,South Australia,SA,245.0,275.0,290.0,400.0,145.0,340.0,457.5,580.0
+116,5094,Dry Creek,Adelaide,South Australia,SA,211.0,250.0,338.75,400.0,185.0,292.5,332.5,404.0
+117,5019,Semaphore Park,Adelaide,South Australia,SA,211.0,300.0,435.0,400.0,275.0,370.0,395.0,404.0
+118,5019,Semaphore South,Adelaide,South Australia,SA,245.0,365.0,370.0,400.0,185.0,292.5,450.0,404.0
+119,5065,Dulwich,Adelaide,South Australia,SA,290.0,310.0,295.0,400.0,185.0,292.5,495.0,775.0
+120,5020,West Lakes Shore,Adelaide,South Australia,SA,290.0,320.0,460.0,400.0,185.0,300.0,450.0,555.0
+121,5063,Eastwood,Adelaide,South Australia,SA,400.0,350.0,338.75,400.0,185.0,420.0,520.0,404.0
+122,5021,West Lakes,Adelaide,South Australia,SA,211.0,335.0,512.5,420.0,185.0,300.0,410.0,575.0
+123,5050,Eden Hills,Adelaide,South Australia,SA,210.0,275.0,338.75,400.0,185.0,292.5,327.5,400.0
+124,5022,Grange,Adelaide,South Australia,SA,380.0,290.0,590.0,400.0,185.0,315.0,515.0,570.0
+125,5039,Edwardstown,Adelaide,South Australia,SA,255.0,265.0,402.5,400.0,190.0,300.0,367.5,370.0
+126,5022,Henley Beach,Adelaide,South Australia,SA,220.0,292.5,770.0,710.0,220.0,390.0,505.0,787.5
+127,5112,Elizabeth,Adelaide,South Australia,SA,185.0,220.0,285.0,400.0,130.0,186.0,230.0,285.0
+128,5022,Henley Beach South,Adelaide,South Australia,SA,230.0,285.0,338.75,400.0,185.0,285.0,565.0,855.0
+129,5113,Elizabeth Downs,Adelaide,South Australia,SA,165.0,260.0,338.75,400.0,165.0,210.0,245.0,300.0
+130,5022,Kirkcaldy,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+131,5112,Elizabeth East,Adelaide,South Australia,SA,211.0,275.0,229.75,400.0,185.0,292.5,255.0,404.0
+132,5022,Tennyson,Adelaide,South Australia,SA,211.0,300.0,338.75,400.0,185.0,400.0,580.0,620.0
+133,5112,Elizabeth Grove,Adelaide,South Australia,SA,211.0,140.0,338.75,400.0,185.0,230.0,245.0,404.0
+134,5023,Findon,Adelaide,South Australia,SA,211.0,240.0,400.0,400.0,185.0,295.0,380.0,360.0
+135,5113,Elizabeth North,Adelaide,South Australia,SA,165.0,220.0,338.75,400.0,185.0,292.5,240.0,250.0
+136,5023,Seaton,Adelaide,South Australia,SA,222.5,270.0,360.0,400.0,107.5,290.0,387.5,450.0
+137,5113,Elizabeth Park,Adelaide,South Australia,SA,141.0,255.0,338.75,400.0,185.0,292.5,270.0,404.0
+138,5023,Seaton North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+139,5112,Elizabeth South,Adelaide,South Australia,SA,211.0,190.75,338.75,400.0,185.0,200.0,230.0,360.0
+140,5024,Fulham,Adelaide,South Australia,SA,195.0,292.5,280.0,400.0,95.0,292.5,400.0,480.0
+141,5112,Elizabeth Vale,Adelaide,South Australia,SA,345.0,275.0,338.75,400.0,185.0,292.5,247.5,320.0
+142,5024,Fulham Gardens,Adelaide,South Australia,SA,211.0,310.0,395.0,400.0,185.0,295.0,440.0,582.5
+143,5085,Enfield,Adelaide,South Australia,SA,217.5,285.0,255.0,400.0,267.5,277.5,337.5,392.5
+144,5024,West Beach,Adelaide,South Australia,SA,227.5,265.0,355.0,400.0,185.0,292.5,420.0,560.0
+145,5066,Erindale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,750.0,520.0
+146,5025,Flinders Park,Adelaide,South Australia,SA,211.0,280.0,338.75,400.0,185.0,292.5,435.0,555.0
+147,5025,Kidman Park,Adelaide,South Australia,SA,211.0,312.5,330.0,400.0,185.0,292.5,450.0,515.0
+148,5069,Evandale,Adelaide,South Australia,SA,211.0,305.0,375.0,400.0,185.0,335.0,410.0,497.5
+149,5031,Mile End,Adelaide,South Australia,SA,230.0,305.0,400.0,400.0,178.5,375.0,430.0,390.0
+150,5035,Everard Park,Adelaide,South Australia,SA,315.0,275.0,355.0,400.0,185.0,292.5,480.0,404.0
+151,5031,Mile End South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+152,5031,Thebarton,Adelaide,South Australia,SA,188.0,270.0,338.75,400.0,185.0,345.0,400.0,550.0
+153,5126,Fairview Park,Adelaide,South Australia,SA,180.0,275.0,338.75,400.0,185.0,292.5,350.0,435.0
+154,5031,Torrensville,Adelaide,South Australia,SA,235.0,265.0,397.5,400.0,300.0,375.0,395.0,347.5
+155,5070,Felixstow,Adelaide,South Australia,SA,211.0,265.0,367.5,400.0,185.0,86.3,400.0,404.0
+156,5031,Torrensville Plaza,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+157,5032,Lockleys,Adelaide,South Australia,SA,225.0,275.0,380.0,400.0,185.0,320.0,410.0,480.0
+158,5070,Firle,Adelaide,South Australia,SA,211.0,280.0,370.0,400.0,185.0,292.5,412.5,404.0
+159,5032,Underdale,Adelaide,South Australia,SA,197.5,277.5,325.0,400.0,185.0,335.0,470.0,550.0
+160,5082,Fitzroy,Adelaide,South Australia,SA,285.0,340.0,275.0,400.0,185.0,292.5,475.0,362.5
+161,5159,Flagstaff Hill,Adelaide,South Australia,SA,211.0,315.0,338.75,400.0,260.0,340.0,365.0,482.5
+162,5033,Hilton Plaza,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+163,5033,Marleston,Adelaide,South Australia,SA,211.0,277.5,450.0,400.0,185.0,342.5,460.0,404.0
+164,5035,Forestville,Adelaide,South Australia,SA,211.0,300.0,320.0,400.0,312.5,385.0,445.0,405.0
+165,5033,Richmond,Adelaide,South Australia,SA,203.0,260.0,338.75,400.0,185.0,340.0,377.5,80.5
+166,5063,Frewville,Adelaide,South Australia,SA,211.0,300.0,367.5,400.0,185.0,292.5,490.0,767.5
+167,5033,West Richmond,Adelaide,South Australia,SA,211.0,257.5,338.75,400.0,185.0,280.0,355.0,850.0
+168,5034,Goodwood,Adelaide,South Australia,SA,205.0,290.0,338.75,400.0,185.0,430.0,515.0,835.0
+169,5063,Fullarton,Adelaide,South Australia,SA,204.5,312.5,800.0,400.0,185.0,412.5,560.0,680.0
+170,5034,Kings Park,Adelaide,South Australia,SA,211.0,350.0,338.75,400.0,185.0,292.5,450.0,404.0
+171,5094,Gepps Cross,Adelaide,South Australia,SA,180.0,275.0,338.75,400.0,185.0,292.5,330.0,404.0
+172,5034,Millswood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,432.5,470.0,900.0
+173,5081,Gilberton,Adelaide,South Australia,SA,347.5,347.5,487.5,400.0,185.0,450.0,465.0,404.0
+174,5034,Wayville,Adelaide,South Australia,SA,280.0,322.5,450.0,400.0,185.0,360.0,405.0,404.0
+175,5086,Gilles Plains,Adelaide,South Australia,SA,185.0,230.0,350.0,400.0,185.0,390.0,362.5,395.0
+176,5037,Glandore,Adelaide,South Australia,SA,217.5,300.0,338.75,400.0,203.1,292.5,365.0,550.0
+177,5064,Glen Osmond,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,290.0,590.0,690.0
+178,5035,Keswick,Adelaide,South Australia,SA,211.0,267.5,338.75,400.0,185.0,430.0,392.5,404.0
+179,5052,Glenalta,Adelaide,South Australia,SA,275.0,310.0,338.75,400.0,185.0,292.5,485.0,480.0
+180,5035,Keswick Terminal,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+181,5045,Glenelg,Adelaide,South Australia,SA,260.0,320.0,400.0,575.0,230.0,330.0,465.0,650.0
+182,5045,Glenelg East,Adelaide,South Australia,SA,240.0,295.0,355.0,400.0,185.0,410.0,465.0,650.0
+183,5037,Kurralta Park,Adelaide,South Australia,SA,245.0,250.0,475.0,250.0,185.0,335.0,410.0,404.0
+184,5045,Glenelg North,Adelaide,South Australia,SA,245.0,300.0,475.0,540.0,185.0,350.0,445.0,625.0
+185,5037,Netley,Adelaide,South Australia,SA,211.0,280.0,440.0,400.0,185.0,292.5,360.0,404.0
+186,5045,Glenelg South,Adelaide,South Australia,SA,250.0,330.0,415.0,400.0,185.0,435.0,455.0,404.0
+187,5037,North Plympton,Adelaide,South Australia,SA,178.0,350.0,475.0,400.0,170.0,247.77,385.0,155.0
+188,5044,Glengowrie,Adelaide,South Australia,SA,167.5,140.0,327.5,400.0,185.0,330.0,420.0,450.0
+189,5065,Glenside,Adelaide,South Australia,SA,262.5,300.0,420.0,400.0,185.0,445.0,660.0,577.5
+190,5038,Plympton,Adelaide,South Australia,SA,220.0,285.0,300.0,400.0,245.0,335.0,320.0,400.0
+191,5064,Glenunga,Adelaide,South Australia,SA,195.0,325.0,435.0,575.0,185.0,292.5,567.5,800.0
+192,5038,Plympton Park,Adelaide,South Australia,SA,211.0,195.95,338.75,400.0,210.0,335.0,270.0,407.5
+193,5110,Globe Derby Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,450.0
+194,5038,South Plympton,Adelaide,South Australia,SA,250.0,285.0,380.0,400.0,170.0,345.0,380.0,440.0
+195,5070,Glynde,Adelaide,South Australia,SA,211.0,305.0,420.0,400.0,185.0,320.0,422.5,425.0
+196,5125,Golden Grove,Adelaide,South Australia,SA,211.0,297.5,360.0,400.0,390.0,290.0,370.0,510.0
+197,5039,Melrose Park,Adelaide,South Australia,SA,176.18,310.0,310.0,400.0,185.0,320.0,370.0,404.0
+198,5040,Novar Gardens,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,400.0,560.0
+199,5086,Greenacres,Adelaide,South Australia,SA,211.0,255.0,338.75,400.0,185.0,300.0,350.0,404.0
+200,5125,Greenwith,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,275.0,350.0,442.5
+201,5096,Gulfview Heights,Adelaide,South Australia,SA,211.0,260.0,338.75,400.0,185.0,292.5,405.0,610.0
+202,5163,Hackham,Adelaide,South Australia,SA,225.0,270.0,252.1,400.0,165.0,90.0,295.0,365.0
+203,5041,Panorama,Adelaide,South Australia,SA,211.0,287.5,338.75,400.0,185.0,352.5,400.0,440.0
+204,5163,Hackham West,Adelaide,South Australia,SA,89.7,275.0,338.75,400.0,185.0,292.5,295.0,404.0
+205,5041,Westbourne Park,Adelaide,South Australia,SA,247.5,282.5,338.75,400.0,185.0,292.5,575.0,490.0
+206,5069,Hackney,Adelaide,South Australia,SA,211.0,275.0,385.0,400.0,185.0,360.0,200.0,675.0
+207,5158,Hallett Cove,Adelaide,South Australia,SA,211.0,335.0,338.75,400.0,185.0,295.0,370.0,440.0
+208,5086,Hampstead Gardens,Adelaide,South Australia,SA,157.0,280.0,338.75,400.0,185.0,335.0,275.0,404.0
+209,5042,Flinders University,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+210,5159,Happy Valley,Adelaide,South Australia,SA,211.0,275.0,435.0,400.0,185.0,292.5,345.0,390.0
+211,5042,Pasadena,Adelaide,South Australia,SA,211.0,262.5,338.75,400.0,185.0,325.0,375.0,425.0
+212,5062,Hawthorn,Adelaide,South Australia,SA,235.0,302.5,338.75,400.0,185.0,292.5,520.0,170.0
+213,5042,St Marys,Adelaide,South Australia,SA,230.0,250.0,338.75,400.0,150.0,292.5,360.0,404.0
+214,5051,Hawthorndene,Adelaide,South Australia,SA,180.0,275.0,338.75,400.0,185.0,292.5,420.0,422.5
+215,5066,Hazelwood Park,Adelaide,South Australia,SA,275.0,327.5,338.75,400.0,185.0,292.5,550.0,515.0
+216,5043,Marion,Adelaide,South Australia,SA,45.05,260.0,450.0,400.0,185.0,300.0,390.0,460.0
+217,5068,Heathpool,Adelaide,South Australia,SA,211.0,295.0,338.75,400.0,185.0,292.5,562.5,404.0
+218,5043,Mitchell Park,Adelaide,South Australia,SA,215.0,270.0,385.0,400.0,185.0,244.0,360.0,404.0
+219,5073,Hectorville,Adelaide,South Australia,SA,255.0,280.0,445.0,400.0,185.0,277.5,375.0,360.0
+220,5043,Morphettville,Adelaide,South Australia,SA,211.0,167.1,340.0,400.0,185.0,273.2,187.65,400.0
+221,5043,Park Holme,Adelaide,South Australia,SA,183.0,250.0,350.0,400.0,185.0,310.0,191.8,420.0
+222,5044,Somerton Park,Adelaide,South Australia,SA,211.0,310.0,420.0,750.0,185.0,405.0,430.0,550.0
+223,5089,Highbury,Adelaide,South Australia,SA,211.0,275.0,330.0,400.0,185.0,292.5,350.0,475.0
+224,5063,Highgate,Adelaide,South Australia,SA,250.0,305.0,407.5,600.0,185.0,725.0,530.0,404.0
+225,5112,Hillbank,Adelaide,South Australia,SA,211.0,220.0,338.75,400.0,185.0,217.5,320.0,360.0
+226,5045,Glenelg Jetty Road,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+227,5086,Hillcrest,Adelaide,South Australia,SA,211.0,272.5,338.75,400.0,185.0,122.6,375.0,440.0
+228,5046,Oaklands Park,Adelaide,South Australia,SA,226.0,290.0,372.5,400.0,250.0,364.0,410.0,410.0
+229,5088,Holden Hill,Adelaide,South Australia,SA,211.0,260.0,280.0,400.0,185.0,290.0,345.0,404.0
+230,5046,Warradale,Adelaide,South Australia,SA,220.0,297.5,350.0,450.0,185.0,335.0,435.0,420.0
+231,5046,Warradale North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+232,5048,Hove,Adelaide,South Australia,SA,310.0,285.0,340.0,400.0,185.0,340.0,390.0,470.0
+233,5163,Huntfield Heights,Adelaide,South Australia,SA,211.0,275.0,291.0,400.0,185.0,285.0,300.0,380.0
+234,5047,Seacombe Gardens,Adelaide,South Australia,SA,285.0,275.0,357.5,400.0,185.0,212.95,390.0,425.0
+235,5047,Seacombe Heights,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,395.0,520.0
+236,5098,Ingle Farm,Adelaide,South Australia,SA,235.0,275.0,241.5,400.0,130.0,265.0,335.0,360.0
+237,5047,Sturt,Adelaide,South Australia,SA,146.0,350.0,430.0,400.0,185.0,365.0,402.5,475.0
+238,5070,Joslin,Adelaide,South Australia,SA,300.0,295.0,338.75,400.0,185.0,430.0,332.5,630.0
+239,5157,Kangarilla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,360.0,404.0
+240,5068,Kensington,Adelaide,South Australia,SA,211.0,322.5,380.0,400.0,185.0,410.0,435.0,790.0
+241,5068,Kensington Gardens,Adelaide,South Australia,SA,181.0,325.0,338.75,400.0,185.0,292.5,445.0,605.0
+242,5048,North Brighton,Adelaide,South Australia,SA,211.0,295.0,420.0,400.0,185.0,395.0,520.0,750.0
+243,5068,Kensington Park,Adelaide,South Australia,SA,265.0,340.0,338.75,400.0,185.0,445.0,425.0,404.0
+244,5048,South Brighton,Adelaide,South Australia,SA,215.0,300.0,360.0,400.0,350.0,340.0,360.0,495.0
+245,5067,Kent Town,Adelaide,South Australia,SA,330.0,260.0,537.5,400.0,185.0,295.0,620.0,404.0
+246,5071,Kent Town,Adelaide,South Australia,SA,330.0,260.0,537.5,400.0,185.0,295.0,620.0,404.0
+247,5049,Kingston Park,Adelaide,South Australia,SA,265.0,325.0,338.75,400.0,185.0,292.5,332.5,570.0
+248,5049,Marino,Adelaide,South Australia,SA,211.0,275.0,600.0,400.0,185.0,292.5,400.0,475.0
+249,5049,Seacliff,Adelaide,South Australia,SA,211.0,310.0,362.0,400.0,185.0,362.5,462.5,755.0
+250,5084,Kilburn,Adelaide,South Australia,SA,275.0,240.0,307.5,400.0,125.0,246.5,280.0,172.5
+251,5049,Seacliff Park,Adelaide,South Australia,SA,211.0,280.0,338.75,400.0,430.0,292.5,467.5,510.0
+252,5049,Seaview Downs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,250.0,330.0,410.0,420.0
+253,5062,Kingswood,Adelaide,South Australia,SA,211.0,330.0,338.75,400.0,185.0,292.5,537.5,627.5
+254,5087,Klemzig,Adelaide,South Australia,SA,220.0,270.0,350.0,400.0,380.0,280.0,357.5,377.5
+255,5068,Leabrook,Adelaide,South Australia,SA,262.5,300.0,338.75,400.0,185.0,292.5,570.0,404.0
+256,5065,Linden Park,Adelaide,South Australia,SA,255.0,310.0,390.0,400.0,185.0,320.0,675.0,880.0
+257,5061,Malvern,Adelaide,South Australia,SA,250.0,360.0,338.75,400.0,185.0,397.5,495.0,650.0
+258,5061,Unley,Adelaide,South Australia,SA,275.0,335.0,460.0,400.0,190.0,412.5,520.0,520.0
+259,5062,Lower Mitcham,Adelaide,South Australia,SA,250.0,320.0,380.0,400.0,185.0,365.0,435.0,800.0
+260,5061,Unley Park,Adelaide,South Australia,SA,211.0,342.5,440.0,400.0,185.0,292.5,332.5,525.0
+261,5062,Lynton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,750.0
+262,5062,Brown Hill Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+263,5121,Macdonald Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,460.0
+264,5072,Magill,Adelaide,South Australia,SA,225.0,275.0,350.0,400.0,550.0,352.5,420.0,535.0
+265,5086,Manningham,Adelaide,South Australia,SA,220.0,275.0,338.75,400.0,185.0,292.5,380.0,450.0
+266,5070,Marden,Adelaide,South Australia,SA,245.0,305.0,308.0,400.0,185.0,86.3,450.0,580.0
+267,5062,Mitcham,Adelaide,South Australia,SA,211.0,280.0,338.75,400.0,185.0,292.5,730.0,404.0
+268,5062,Mitcham Shopping Centre,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+269,5062,Netherby,Adelaide,South Australia,SA,211.0,285.0,338.75,400.0,185.0,320.0,545.0,404.0
+270,5062,Springfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+271,5068,Marryatville,Adelaide,South Australia,SA,180.0,342.5,495.0,400.0,185.0,375.0,535.0,404.0
+272,5062,Torrens Park,Adelaide,South Australia,SA,211.0,277.5,338.75,400.0,185.0,390.0,400.0,420.0
+273,5170,Maslin Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,340.0,330.0,404.0
+274,5095,Mawson Lakes,Adelaide,South Australia,SA,230.0,310.0,345.0,400.0,185.0,330.0,380.0,460.0
+275,5069,Maylands,Adelaide,South Australia,SA,211.0,322.5,338.75,400.0,240.0,335.0,395.0,600.0
+276,5171,Mclaren Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,450.0
+277,5171,Mclaren Vale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,482.5
+278,5063,Parkside,Adelaide,South Australia,SA,257.5,335.0,400.0,400.0,310.0,437.5,520.0,612.5
+279,5081,Medindie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,175.0,292.5,450.0,404.0
+280,5081,Medindie Gardens,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,550.0,430.0
+281,5064,Mount Osmond,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,510.0,404.0
+282,5064,Myrtle Bank,Adelaide,South Australia,SA,181.0,285.0,390.0,400.0,185.0,325.0,500.0,404.0
+283,5064,St Georges,Adelaide,South Australia,SA,211.0,350.0,338.75,400.0,185.0,292.5,490.0,797.5
+284,5064,Urrbrae,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,400.0,720.0
+285,5169,Moana,Adelaide,South Australia,SA,211.0,282.5,522.5,400.0,150.0,280.0,330.0,420.0
+286,5092,Modbury,Adelaide,South Australia,SA,175.0,275.0,315.0,400.0,185.0,272.5,330.0,350.0
+287,5092,Modbury Heights,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,425.0
+288,5065,Toorak Gardens,Adelaide,South Australia,SA,257.5,325.0,338.75,400.0,185.0,292.5,750.0,975.0
+289,5092,Modbury North,Adelaide,South Australia,SA,211.0,295.0,320.0,400.0,185.0,292.5,352.5,365.0
+290,5065,Tusmore,Adelaide,South Australia,SA,211.0,335.0,338.75,400.0,185.0,292.5,332.5,404.0
+291,5162,Morphett Vale,Adelaide,South Australia,SA,160.0,270.0,297.5,342.5,165.0,295.0,315.0,372.5
+292,5115,Munno Para,Adelaide,South Australia,SA,211.0,265.0,221.6,400.0,185.0,267.0,285.0,320.0
+293,5066,Stonyfell,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,480.0
+294,5115,Munno Para Downs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,365.0
+295,5066,Waterfall Gully,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+296,5115,Munno Para West,Adelaide,South Australia,SA,211.0,196.0,302.5,400.0,185.0,292.5,300.0,335.0
+297,5066,Wattle Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,340.0,410.0,422.5
+298,5083,Nailsworth,Adelaide,South Australia,SA,223.5,280.0,338.75,400.0,185.0,335.0,367.5,470.0
+299,5067,Norwood,Adelaide,South Australia,SA,252.5,337.5,480.0,400.0,297.5,420.0,517.5,570.0
+300,5067,Norwood South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+301,5067,Rose Park,Adelaide,South Australia,SA,312.5,290.0,880.0,400.0,185.0,292.5,600.0,850.0
+302,5074,Newton,Adelaide,South Australia,SA,211.0,307.5,280.0,400.0,180.0,310.0,370.0,440.0
+303,5168,Noarlunga Centre,Adelaide,South Australia,SA,149.5,102.9,338.75,400.0,185.0,148.25,300.0,404.0
+304,5168,Noarlunga Downs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,320.0,410.0
+305,5068,St Morris,Adelaide,South Australia,SA,230.0,250.0,375.0,400.0,250.0,300.0,355.0,404.0
+306,5068,Trinity Gardens,Adelaide,South Australia,SA,211.0,295.0,338.75,400.0,185.0,375.0,430.0,404.0
+307,5085,Northfield,Adelaide,South Australia,SA,211.0,290.0,232.7,400.0,185.0,285.0,347.0,420.0
+308,5085,Northgate,Adelaide,South Australia,SA,211.0,275.0,380.0,400.0,185.0,365.0,400.0,510.0
+309,5069,St Peters,Adelaide,South Australia,SA,260.0,277.5,320.0,400.0,195.0,292.5,520.0,727.5
+310,5069,Stepney,Adelaide,South Australia,SA,150.0,307.5,338.75,400.0,185.0,355.0,460.0,404.0
+311,5086,Oakden,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,160.0,292.5,370.0,480.0
+312,5168,Old Noarlunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,172.05,290.0,404.0
+313,5161,Old Reynella,Adelaide,South Australia,SA,211.0,262.5,338.75,400.0,185.0,292.5,355.0,365.0
+314,5070,Glynde Plaza,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+315,5114,One Tree Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,350.0,300.0,404.0
+316,5163,Onkaparinga Hills,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,355.0,420.0
+317,5070,Payneham,Adelaide,South Australia,SA,195.0,272.5,372.5,400.0,185.0,335.0,405.0,430.0
+318,5070,Payneham South,Adelaide,South Australia,SA,211.0,302.5,500.0,400.0,185.0,292.5,530.0,530.0
+319,5082,Ovingham,Adelaide,South Australia,SA,205.0,280.0,242.0,400.0,185.0,420.0,360.0,605.0
+320,5070,Royston Park,Adelaide,South Australia,SA,211.0,380.0,575.0,280.0,185.0,300.0,330.0,1000.0
+321,5096,Para Hills,Adelaide,South Australia,SA,180.0,236.0,280.0,400.0,185.0,300.0,320.0,300.0
+322,5096,Para Hills West,Adelaide,South Australia,SA,211.0,255.0,292.5,400.0,185.0,265.0,325.0,404.0
+323,5093,Para Vista,Adelaide,South Australia,SA,211.0,285.0,338.75,400.0,185.0,250.0,315.0,404.0
+324,5072,Magill North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+325,5075,Paradise,Adelaide,South Australia,SA,235.0,265.0,325.0,400.0,230.0,380.0,380.0,360.0
+326,5072,Magill South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+327,5107,Parafield Gardens,Adelaide,South Australia,SA,211.0,242.5,338.75,400.0,55.6,253.45,310.0,382.5
+328,5072,Rosslyn Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,250.0,292.5,490.0,810.0
+329,5108,Paralowie,Adelaide,South Australia,SA,211.0,250.0,265.0,400.0,260.0,246.5,315.0,380.0
+330,5072,Skye,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,450.0,404.0
+331,5072,Teringie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+332,5072,Woodforde,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,500.0,404.0
+333,5073,Rostrevor,Adelaide,South Australia,SA,211.0,297.5,338.75,400.0,185.0,322.5,405.0,495.0
+334,5073,Tranmere,Adelaide,South Australia,SA,211.0,307.5,480.0,400.0,185.0,292.5,437.5,920.0
+335,5121,Penfield,Adelaide,South Australia,SA,211.0,250.0,338.75,400.0,185.0,292.5,330.0,320.0
+336,5073,Tranmere North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+337,5095,Pooraka,Adelaide,South Australia,SA,211.0,270.0,275.0,400.0,185.0,305.0,325.0,400.0
+338,5076,Castambul,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+339,5167,Port Noarlunga,Adelaide,South Australia,SA,211.0,255.0,367.5,400.0,185.0,270.0,330.0,400.0
+340,5167,Port Noarlunga South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,310.0,342.5,425.0
+341,5173,Port Willunga,Adelaide,South Australia,SA,211.0,270.0,338.75,400.0,185.0,250.0,320.0,360.0
+342,5082,Prospect,Adelaide,South Australia,SA,230.0,300.0,440.0,400.0,170.0,350.0,400.0,507.5
+343,5081,Vale Park,Adelaide,South Australia,SA,211.0,275.0,450.0,400.0,185.0,292.5,365.0,610.0
+344,5097,Redwood Park,Adelaide,South Australia,SA,211.0,230.0,338.75,400.0,185.0,292.5,340.0,480.0
+345,5081,Walkerville,Adelaide,South Australia,SA,400.0,407.5,700.0,875.0,185.0,550.0,497.5,750.0
+346,5161,Reynella,Adelaide,South Australia,SA,211.0,260.0,305.0,390.0,185.0,292.5,335.0,425.0
+347,5161,Reynella East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,330.0,330.0
+348,5082,Prospect East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+349,5097,Ridgehaven,Adelaide,South Australia,SA,211.0,280.0,338.75,400.0,260.0,200.65,340.0,360.0
+350,5082,Prospect West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+351,5082,Thorngate,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,404.0
+352,5083,Sefton Park,Adelaide,South Australia,SA,211.0,290.0,338.75,400.0,185.0,292.5,385.0,404.0
+353,5084,Blair Athol West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+354,5108,Salisbury,Adelaide,South Australia,SA,165.65,230.0,315.0,400.0,165.0,270.0,285.0,340.0
+355,5084,Kilburn North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+356,5108,Salisbury Downs,Adelaide,South Australia,SA,211.0,220.0,320.0,400.0,185.0,285.0,300.0,400.0
+357,5109,Salisbury East,Adelaide,South Australia,SA,220.0,235.0,320.0,400.0,182.5,292.5,317.5,395.0
+358,5109,Salisbury Heights,Adelaide,South Australia,SA,211.0,295.0,265.0,400.0,185.0,292.5,330.0,382.5
+359,5085,Enfield Plaza,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+360,5108,Salisbury North,Adelaide,South Australia,SA,211.0,285.0,276.26,400.0,185.0,203.25,295.0,340.0
+361,5109,Salisbury Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,300.0,314.5,404.0
+362,5109,Salisbury Plain,Adelaide,South Australia,SA,211.0,280.0,320.0,400.0,185.0,292.5,380.0,404.0
+363,5169,Seaford,Adelaide,South Australia,SA,211.0,300.0,320.0,400.0,185.0,280.0,325.0,400.0
+364,5169,Seaford Heights,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,404.0
+365,5169,Seaford Meadows,Adelaide,South Australia,SA,211.0,315.0,335.0,400.0,185.0,292.5,355.0,392.5
+366,5087,Windsor Gardens,Adelaide,South Australia,SA,211.0,255.0,338.75,400.0,185.0,320.0,335.0,430.0
+367,5169,Seaford Rise,Adelaide,South Australia,SA,211.0,275.0,297.5,400.0,185.0,292.5,322.5,385.0
+368,5091,Tea Tree Gully,Adelaide,South Australia,SA,210.0,252.5,345.0,400.0,185.0,320.0,375.0,380.0
+369,5174,Sellicks Beach,Adelaide,South Australia,SA,211.0,220.0,338.75,400.0,185.0,320.0,322.5,355.0
+370,5091,Vista,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,335.0,404.0
+371,5158,Sheidow Park,Adelaide,South Australia,SA,211.0,275.0,325.0,400.0,185.0,290.0,360.0,475.0
+372,5093,Valley View,Adelaide,South Australia,SA,180.0,255.0,338.75,400.0,185.0,300.0,350.0,385.0
+373,5114,Smithfield,Adelaide,South Australia,SA,92.5,197.5,230.0,400.0,185.0,250.0,270.0,350.0
+374,5094,Cavan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+375,5114,Smithfield Plains,Adelaide,South Australia,SA,151.0,275.0,260.0,400.0,185.0,292.5,275.0,385.0
+376,5097,St Agnes,Adelaide,South Australia,SA,211.0,285.0,350.0,400.0,185.0,292.5,332.5,420.0
+377,5095,The Levels,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+378,5110,St Kilda,Adelaide,South Australia,SA,211.0,225.0,338.75,400.0,185.0,292.5,332.5,404.0
+379,5098,Walkley Heights,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,390.0,430.0
+380,5106,Parafield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+381,5126,Surrey Downs,Adelaide,South Australia,SA,211.0,265.0,320.0,400.0,185.0,292.5,337.5,404.0
+382,5106,Parafield Airport,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+383,5106,Salisbury South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+384,5107,Green Fields,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+385,5108,Salisbury North Whites Road,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+386,5158,Trott Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,404.0
+387,5109,Salisbury East Northbri Ave,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+388,5114,Uleybury,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,470.0
+389,5110,Bolivar,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+390,5131,Upper Hermitage,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+391,5110,Waterloo Corner,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,450.0,404.0
+392,5120,Virginia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,190.38,285.0,251.0,495.0
+393,5111,Edinburgh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+394,5113,Davoren Park North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+395,5113,Davoren Park South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+396,5113,Elizabeth West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+397,5172,Willunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,347.5,445.0
+398,5114,Gould Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+399,5114,Humbug Scrub,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+400,5162,Woodcroft,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,390.0
+401,5114,Sampson Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+402,5114,Yattalunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+403,5115,Kudla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,321.0,404.0
+404,5127,Wynn Vale,Adelaide,South Australia,SA,211.0,262.5,330.0,400.0,185.0,340.0,365.0,450.0
+405,5126,Yatala Vale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,404.0
+406,5154,Aldgate,Adelaide,South Australia,SA,200.0,275.0,338.75,400.0,185.0,320.0,500.0,500.0
+407,5116,Evanston,Adelaide,South Australia,SA,211.0,230.0,275.0,400.0,185.0,232.635,300.0,380.0
+408,5116,Evanston Gardens,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,325.0
+409,5221,American River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,185.0,332.5,404.0
+410,5116,Evanston Park,Adelaide,South Australia,SA,211.0,275.0,255.87,400.0,185.0,292.5,320.0,410.0
+411,5116,Evanston South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,320.0,425.0
+412,5116,Hillier,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+413,5238,Angas Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,220.0
+414,5118,Bibaringa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+415,5118,Buchfelde,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,480.0
+416,5118,Concordia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+417,5118,Gawler,Adelaide,South Australia,SA,200.0,242.5,255.0,400.0,180.0,240.0,315.0,265.0
+418,5118,Gawler Belt,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,400.0
+419,5157,Ashbourne,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,500.0
+420,5118,Gawler East,Adelaide,South Australia,SA,250.0,230.0,245.0,400.0,185.0,292.5,330.0,395.0
+421,5118,Gawler River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+422,5253,Avoca Dell,Adelaide,South Australia,SA,160.0,210.0,338.75,295.0,185.0,190.0,240.0,312.5
+423,5118,Gawler South,Adelaide,South Australia,SA,211.0,260.0,310.0,400.0,185.0,282.5,302.5,404.0
+424,5211,Back Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,245.0,332.5,404.0
+425,5118,Gawler West,Adelaide,South Australia,SA,211.0,230.0,260.0,400.0,185.0,292.5,257.5,404.0
+426,5118,Hewett,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,365.0,435.0
+427,5242,Balhannah,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,422.5
+428,5118,Kalbeeba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+429,5118,Kangaroo Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+430,5138,Basket Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,445.0,404.0
+431,5118,Kingsford,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+432,5222,Baudin Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,250.0
+433,5118,Reid,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,395.0
+434,5223,Bay Of Shoals,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,280.0
+435,5118,Ward Belt,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,280.0,404.0
+436,5118,Willaston,Adelaide,South Australia,SA,211.0,252.5,302.5,400.0,185.0,292.5,290.0,330.0
+437,5120,Buckland Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+438,5234,Birdwood,Adelaide,South Australia,SA,211.0,275.0,280.0,400.0,185.0,292.5,335.0,404.0
+439,5201,Blackfellows Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,404.0
+440,5250,Blakiston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,404.0
+441,5121,Penfield Gardens,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+442,5125,Golden Grove Village,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+443,5155,Bridgewater,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,470.0,545.0
+444,5131,Houghton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+445,5131,Lower Hermitage,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+446,5252,Brukunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,270.0,404.0
+447,5132,Paracombe,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,365.0,332.5,404.0
+448,5133,Inglewood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+449,5134,Cherryville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+450,5134,Montacute,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+451,5136,Norton Summit,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+452,5137,Ashton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+453,5204,Cape Jervis,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,285.0,300.0
+454,5137,Marble Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,295.0,332.5,404.0
+455,5144,Carey Gully,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,475.0
+456,5204,Carrickalinga,Adelaide,South Australia,SA,211.0,250.0,338.75,400.0,185.0,267.5,332.5,355.0
+457,5139,Forest Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+458,5140,Greenhill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+459,5141,Horsnell Gully,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+460,5244,Charleston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,340.0,300.0,404.0
+461,5141,Summertown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+462,5142,Uraidla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+463,5150,Eagle On The Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+464,5152,Cleland,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+465,5152,Crafers,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,447.5,600.0
+466,5152,Crafers West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,500.0,404.0
+467,5152,Mount Lofty,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+468,5152,Stirling,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,440.0,500.0,600.0
+469,5153,Biggs Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+470,5153,Bradbury,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+471,5153,Chapel Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+472,5153,Echunga,Adelaide,South Australia,SA,211.0,275.0,338.75,410.0,185.0,292.5,410.0,404.0
+473,5153,Flaxley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+474,5153,Green Hills Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+475,5214,Currency Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,395.0,185.0,292.5,332.5,404.0
+476,5153,Heathfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,370.0,535.0
+477,5153,Ironbank,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+478,5252,Dawesley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,490.0
+479,5153,Longwood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,550.0
+480,5153,Macclesfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,175.0,330.0,325.0,410.0
+481,5153,Mylor,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,360.0,332.5,750.0
+482,5153,Scott Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+483,5211,Encounter Bay,Adelaide,South Australia,SA,211.0,240.0,270.0,400.0,195.0,292.5,302.5,335.0
+484,5155,Mount George,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+485,5156,Upper Sturt,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+486,5157,Bull Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+487,5157,Cherry Gardens,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+488,5157,Coromandel East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+489,5233,Forreston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,440.0,404.0
+490,5157,Dorset Vale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+491,5157,Mcharg Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+492,5158,O'Halloran Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+493,5159,Chandlers Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+494,5160,Lonsdale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+495,5160,Port Stanvac,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+496,5214,Goolwa,Adelaide,South Australia,SA,200.0,225.0,338.75,400.0,225.0,292.5,265.0,350.0
+497,5214,Goolwa Beach,Adelaide,South Australia,SA,211.0,225.0,338.75,400.0,185.0,287.5,250.0,404.0
+498,5214,Goolwa North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,265.0,171.2,400.0
+499,5214,Goolwa South,Adelaide,South Australia,SA,211.0,265.0,338.75,400.0,185.0,240.0,265.0,375.0
+500,5233,Gumeracha,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,365.0,300.0,404.0
+501,5245,Hahndorf,Adelaide,South Australia,SA,211.0,297.5,338.75,400.0,185.0,292.5,410.0,510.0
+502,5244,Harrogate,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,700.0
+503,5211,Hayborough,Adelaide,South Australia,SA,211.0,210.0,292.5,400.0,185.0,220.0,260.0,350.0
+504,5165,Christies Beach North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+505,5166,O'Sullivan Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+506,5214,Hindmarsh Island,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,345.0
+507,5211,Hindmarsh Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,400.0
+508,5211,Inman Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+509,5252,Kanmantoo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+510,5171,Pedler Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+511,5171,Tatachilla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+512,5172,Dingabledinga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+513,5172,Hope Forest,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+514,5231,Kersbrook,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,317.5
+515,5172,Kuitpo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+516,5172,Kuitpo Colony,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+517,5172,Kyeema,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+518,5223,Kingscote,Adelaide,South Australia,SA,142.5,180.0,338.75,400.0,160.0,230.0,250.0,300.0
+519,5172,Montarra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+520,5172,Pages Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+521,5172,The Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+522,5172,Whites Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+523,5172,Willunga Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+524,5172,Willunga South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+525,5172,Yundi,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+526,5240,Lenswood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,325.0,404.0
+527,5173,Silver Sands,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+528,5250,Littlehampton,Adelaide,South Australia,SA,211.0,280.0,317.5,440.0,340.0,292.5,440.0,465.0
+529,5174,Sellicks Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+530,5241,Lobethal,Adelaide,South Australia,SA,211.0,275.0,320.0,400.0,180.0,310.0,350.0,404.0
+531,5201,Meadows,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,404.0
+532,5201,Paris Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,404.0
+533,5201,Prospect Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+534,5202,Hindmarsh Tiers,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+535,5202,Myponga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+536,5202,Myponga Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+537,5203,Bald Hills,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+538,5203,Parawa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,330.0
+539,5203,Torrens Vale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+540,5203,Tunkalilla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+541,5238,Mannum,Adelaide,South Australia,SA,106.0,170.0,338.75,400.0,262.5,140.0,210.0,404.0
+542,5203,Wattle Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+543,5203,Yankalilla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,240.0,285.0,404.0
+544,5211,Mccracken,Adelaide,South Australia,SA,180.0,275.0,338.75,400.0,185.0,235.0,267.5,370.0
+545,5204,Deep Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+546,5204,Delamere,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+547,5204,Hay Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+548,5204,Normanville,Adelaide,South Australia,SA,211.0,240.0,275.0,400.0,185.0,292.5,285.0,320.0
+549,5213,Middleton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,250.0,265.0,340.0
+550,5204,Rapid Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+551,5204,Second Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,275.0,404.0
+552,5204,Silverton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+553,5204,Wirrina Cove,Adelaide,South Australia,SA,155.0,165.0,190.0,400.0,185.0,292.5,332.5,330.0
+554,5210,Mount Compass,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,270.0,237.0,350.0
+555,5210,Mount Magnificent,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+556,5210,Nangkita,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+557,5211,Lower Inman Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+558,5211,Mount Jagged,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+559,5211,Victor Harbor,Adelaide,South Australia,SA,172.0,220.0,410.0,400.0,220.0,275.0,260.0,357.5
+560,5251,Mount Barker,Adelaide,South Australia,SA,211.0,275.0,320.0,400.0,302.5,300.0,360.0,420.0
+561,5211,Waitpinga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+562,5251,Mount Barker Junction,Adelaide,South Australia,SA,211.0,245.0,308.8,400.0,185.0,292.5,320.0,401.0
+563,5211,Willow Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+564,5211,Yilki,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+565,5212,Port Elliot,Adelaide,South Australia,SA,211.0,220.0,150.0,400.0,185.0,292.5,271.0,307.5
+566,5235,Mount Pleasant,Adelaide,South Australia,SA,211.0,190.0,338.75,400.0,185.0,292.5,320.0,404.0
+567,5244,Mount Torrens,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,310.0,490.0
+568,5214,Mosquito Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+569,5214,Mundoo Island,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+570,5221,Ballast Head,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+571,5221,Muston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+572,5252,Nairne,Adelaide,South Australia,SA,211.0,297.5,337.5,370.0,240.0,260.0,330.0,380.0
+573,5222,American Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+574,5222,Antechamber Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+575,5222,Browns Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+576,5223,Nepean Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,210.0,230.0,404.0
+577,5222,Cuttlefish Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+578,5222,Dudley East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+579,5222,Dudley West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+580,5222,Hungerford,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+581,5222,Ironstone,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+582,5222,Island Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+583,5222,Kangaroo Head,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+584,5243,Oakbank,Adelaide,South Australia,SA,211.0,295.0,338.75,400.0,185.0,292.5,332.5,410.0
+585,5222,Pelican Lagoon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+586,5222,Penneshaw,Adelaide,South Australia,SA,211.0,150.0,338.75,400.0,185.0,292.5,250.0,404.0
+587,5222,Porky Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+588,5222,Sapphiretown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+589,5222,Willoughby,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+590,5222,Willson River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+591,5223,Birchmore,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+592,5223,Cape Borda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+593,5223,Cassini,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+594,5223,Cygnet River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+595,5223,D'Estrees Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+596,5223,De Mole River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+597,5223,Duncan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+598,5223,Emu Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+599,5223,Flinders Chase,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+600,5223,Gosse,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+601,5223,Haines,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+602,5223,Harriet River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+603,5223,Karatta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+604,5223,Kohinoor,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+605,5223,Macgillivray,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+606,5223,Menzies,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+607,5223,Middle River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+608,5223,Newland,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+609,5223,North Cape,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+610,5223,Seal Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+611,5223,Seddon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+612,5238,Port Mannum,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,250.0,210.0,404.0
+613,5223,Stokes Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+614,5223,Vivonne Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,120.0,332.5,404.0
+615,5223,Western River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+616,5223,Wisanger,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+617,5231,Chain Of Ponds,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+618,5231,Millbrook,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+619,5232,Cudlee Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+620,5233,Warren,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+621,5235,Cromer,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+622,5235,Eden Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+623,5235,Flaxman Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+624,5235,Springton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,245.0,332.5,404.0
+625,5235,Taunton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+626,5236,Tungkillo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,190.0,332.5,404.0
+627,5237,Apamurra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+628,5237,Milendella,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+629,5237,Palmer,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+630,5237,Sanderston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+631,5238,Big Bend,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+632,5238,Bolto,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+633,5238,Bonython,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+634,5238,Bowhill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+635,5238,Caurnamont,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+636,5238,Claypans,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+637,5238,Coolcha,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+638,5238,Cowirra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+639,5238,Five Miles,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+640,5238,Forster,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+641,5238,Frahns,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+642,5238,Frayville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+643,5238,Julanka Holdings,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+644,5238,Lake Carlet,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+645,5238,Nildottie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+646,5238,Old Teal Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+647,5238,Pellaring Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+648,5238,Pompoota,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+649,5238,Ponde,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+650,5238,Punthari,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+651,5238,Purnong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+652,5238,Purnong Landing,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+653,5238,Rocky Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+654,5238,Teal Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+655,5238,Walker Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,220.0,404.0
+656,5238,Wall Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+657,5238,Wongulla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+658,5238,Woodlane,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+659,5238,Younghusband,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+660,5238,Younghusband Holdings,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,270.0
+661,5244,Inverbrackie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+662,5244,Woodside,Adelaide,South Australia,SA,211.0,265.0,295.0,400.0,185.0,325.0,345.0,460.0
+663,5245,Paechtown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+664,5245,Verdun,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+665,5246,Woodhouse,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+666,5250,Totness,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+667,5251,Bugle Ranges,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+668,5251,Mount Barker Springs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+669,5251,Mount Barker Summit,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+670,5251,Wistow,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+671,5252,Hay Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+672,5252,St Ives,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+673,5253,Brinkley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+674,5253,Burdett,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+675,5253,Chapman Bore,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+676,5253,Ettrick,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+677,5253,Gifford Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+678,5253,Greenbanks,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+679,5253,Long Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+680,5253,Mobilong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+681,5253,Murrawong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,190.0,332.5,404.0
+682,5253,Murray Bridge,Adelaide,South Australia,SA,155.0,175.0,232.0,400.0,157.5,220.0,250.0,290.0
+683,5253,Murray Bridge East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+684,5253,Murray Bridge North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+685,5253,Murray Bridge South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+686,5253,Northern Heights,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+687,5253,Riverglades,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+688,5253,Riverglen,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,205.0,250.0,404.0
+689,5253,Rocky Gully,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+690,5253,Sunnyside,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+691,5253,Swanport,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+692,5253,Toora,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+693,5253,White Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+694,5253,White Sands,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+695,5253,Willow Banks,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+696,5253,Woods Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+697,5254,Buccleuch,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+698,5254,Callington,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,305.0,315.0
+699,5254,Caloote,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+700,5254,Monarto,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+701,5254,Monarto South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+702,5254,Monteith,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+703,5254,Murray Bridge,Adelaide,South Australia,SA,155.0,175.0,232.0,400.0,157.5,220.0,250.0,290.0
+704,5254,Mypolonga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+705,5254,Pallamana,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+706,5254,Petwood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+707,5254,Rockleigh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+708,5254,Tepko,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+709,5254,The Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+710,5254,Zadows Landing,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+711,5255,Angas Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+712,5255,Belvidere,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+713,5255,Bletchley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+714,5255,Finniss,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+715,5255,Gemmells,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+716,5255,Hartley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+717,5255,Highland Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+718,5255,Lake Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+719,5255,Langhorne Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,290.0,404.0
+720,5255,Mount Observation,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+721,5255,Mulgundawa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+722,5255,Nalpa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+723,5255,Red Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+724,5255,Salem,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+725,5255,Sandergrove,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+726,5255,Strathalbyn,Adelaide,South Australia,SA,211.0,220.5,280.0,400.0,185.0,290.0,210.9,350.0
+727,5255,Tooperang,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+728,5255,Willyaroo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+729,5255,Woodchester,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+730,5256,Clayton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,290.0,404.0
+731,5256,Milang,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,290.0
+732,5256,Nurragi,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+733,5256,Point Sturt,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+734,5256,Tolderol,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+735,5259,Ashville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+736,5259,East Wellington,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+737,5259,Jervois,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+738,5259,Kepa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+739,5259,Malinong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+740,5259,Narrung,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+741,5259,Naturi,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+742,5259,Point Mcleay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+743,5259,Poltalloch,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+744,5259,Raukkan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+745,5259,Tailem Bend,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,230.0,404.0
+746,5259,Wellington,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+747,5259,Wellington East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,750.0,404.0
+748,5260,Bayah,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+749,5260,Elwomple,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+750,5260,Tailem Bend,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,230.0,404.0
+751,5261,Cooke Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+752,5261,Coomandook,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+753,5261,Culburra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+754,5261,Ki Ki,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+755,5261,Yumali,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+756,5262,Binnum,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+757,5262,Frances,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+758,5262,Hynam,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,404.0
+759,5262,Kybybolite,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+760,5263,Coonawarra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+761,5264,Coorong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+762,5264,Meningie,Adelaide,South Australia,SA,211.0,160.0,338.75,400.0,185.0,292.5,210.0,230.0
+763,5264,Meningie East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+764,5264,Meningie West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+765,5264,Policeman Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+766,5264,Salt Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+767,5264,Waltowa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+768,5265,Coonalpyn,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+769,5265,Field,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+770,5266,Bunbury,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+771,5266,Colebatch,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+772,5266,Deepwater,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+773,5266,Tintinara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,160.0,404.0
+774,5267,Brimbago,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+775,5267,Coombe,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+776,5267,Keith,Adelaide,South Australia,SA,211.0,275.0,140.0,400.0,185.0,292.5,175.0,190.0
+777,5267,Laffer,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+778,5267,Makin,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+779,5267,Mccallum,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+780,5267,Mount Charles,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+781,5267,Petherick,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+782,5267,Shaugh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+783,5267,Sherwood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+784,5267,Willalooka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+785,5267,Wirrega,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+786,5268,Bangham,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+787,5268,Bordertown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,192.5,200.0,240.0
+788,5268,Bordertown South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,210.0,260.0
+789,5268,Cangara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+790,5268,Cannawigara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+791,5268,Lowan Vale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+792,5268,Pooginagoric,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+793,5268,Senior,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+794,5268,Western Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+795,5269,Pine Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+796,5269,Wolseley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+797,5270,Buckingham,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+798,5270,Carew,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+799,5270,Custon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+800,5270,Kongal,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,140.0
+801,5270,Mundulla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,240.0,404.0
+802,5270,Mundulla West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+803,5270,Swede Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+804,5271,Bool Lagoon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+805,5271,Cadgee,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+806,5271,Joanna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+807,5271,Keppoch,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+808,5271,Koppamurra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+809,5271,Laurie Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+810,5271,Lochaber,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+811,5271,Marcollat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+812,5271,Mount Light,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+813,5271,Moyhall,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+814,5271,Naracoorte,Adelaide,South Australia,SA,140.0,195.0,338.75,400.0,155.0,200.0,240.0,290.0
+815,5271,Padthaway,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,162.5,404.0
+816,5271,Spence,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+817,5271,Stewart Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+818,5271,Struan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+819,5271,The Gap,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+820,5271,Wild Dog Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+821,5271,Wrattonbully,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+822,5272,Coles,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+823,5272,Conmurra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+824,5272,Greenways,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+825,5272,Lucindale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+826,5272,Woolumbool,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+827,5273,Avenue Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+828,5275,Blackford,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+829,5275,Boatswain Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,260.0
+830,5275,Cape Jaffa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+831,5275,Keilira,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+832,5275,Kingston Se,Adelaide,South Australia,SA,211.0,178.5,170.0,400.0,185.0,292.5,250.0,350.0
+833,5275,Mount Benson,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+834,5275,Pinks Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+835,5275,Reedy Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+836,5275,Rosetown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+837,5275,Sandy Grove,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+838,5275,Taratap,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+839,5275,Tilley Swamp,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+840,5275,Wangolina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+841,5275,West Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+842,5275,Wyomi,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+843,5276,Bray,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,257.5,404.0
+844,5276,Nora Creina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+845,5276,Robe,Adelaide,South Australia,SA,211.0,275.0,202.5,400.0,200.0,292.5,230.0,300.0
+846,5277,Comaum,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+847,5277,Glenroy,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+848,5277,Maaoupe,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,200.0
+849,5277,Monbulla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,280.0
+850,5277,Nangwarry,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,165.0,180.0
+851,5277,Penola,Adelaide,South Australia,SA,211.0,175.0,338.75,400.0,185.0,292.5,200.0,250.0
+852,5277,Pleasant Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+853,5277,Tarpeena,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+854,5278,Kalangadoo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,404.0
+855,5278,Krongart,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+856,5278,Moerlong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+857,5278,Wepar,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+858,5279,Koorine,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+859,5279,Mount Burr,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+860,5279,Mount Mcintyre,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,140.0,404.0
+861,5279,Short,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+862,5279,Trihi,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+863,5279,Wattle Range East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+864,5280,Beachport,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,195.0,404.0
+865,5280,Clay Wells,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+866,5280,Furner,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+867,5280,German Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+868,5280,German Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+869,5280,Hatherleigh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+870,5280,Kangaroo Inn,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+871,5280,Magarey,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+872,5280,Millicent,Adelaide,South Australia,SA,85.0,177.5,187.5,400.0,185.0,130.0,192.5,230.0
+873,5280,Rendelsham,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,195.0,404.0
+874,5280,Rocky Camp,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+875,5280,Sebastopol,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+876,5280,Southend,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,230.0,404.0
+877,5280,Tantanoola,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,175.0,404.0
+878,5280,Thornlea,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+879,5280,Wattle Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+880,5290,Mount Gambier,Adelaide,South Australia,SA,185.0,170.0,270.0,400.0,177.5,212.5,260.0,340.0
+881,5291,Allendale East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,230.0,280.0,404.0
+882,5291,Blackfellows Caves,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+883,5291,Burrungule,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+884,5291,Canunda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+885,5291,Cape Douglas,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+886,5291,Caroline,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+887,5291,Carpenter Rocks,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+888,5291,Caveton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+889,5291,Compton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,290.0,404.0
+890,5291,Dismal Swamp,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+891,5291,Donovans,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+892,5291,Eight Mile Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+893,5291,Glenburnie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,280.0,404.0
+894,5291,Glencoe,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,330.0,225.0
+895,5291,Glencoe West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+896,5291,Kongorong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,200.0
+897,5291,Mil-Lel,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+898,5291,Mingbool,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+899,5291,Moorak,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,404.0
+900,5291,Mount Gambier,Adelaide,South Australia,SA,185.0,170.0,270.0,400.0,177.5,212.5,260.0,340.0
+901,5291,Mount Gambier East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+902,5291,Mount Gambier West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+903,5291,Mount Schank,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+904,5291,Nene Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+905,5291,O B Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,360.0,404.0
+906,5291,Pelican Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+907,5291,Port Macdonnell,Adelaide,South Australia,SA,211.0,120.0,350.0,400.0,185.0,292.5,260.0,404.0
+908,5291,Racecourse Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+909,5291,Square Mile,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+910,5291,Suttontown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,310.0,310.0
+911,5291,Wandilo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+912,5291,Worrolong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,420.0
+913,5291,Wye,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+914,5291,Yahl,Adelaide,South Australia,SA,211.0,180.0,338.75,400.0,185.0,292.5,300.0,340.0
+915,5301,Carcuma,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+916,5301,Geranium,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+917,5301,Jabuk,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+918,5301,Moorlands,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+919,5301,Netherton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+920,5301,Parrakie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+921,5301,Peake,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+922,5301,Sherlock,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+923,5301,Wilkawatt,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+924,5302,Lameroo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+925,5302,Ngarkat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+926,5302,Smithville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+927,5303,Parilla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+928,5304,Kringin,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+929,5304,Peebinga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+930,5304,Pinnaroo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,210.0,404.0
+931,5306,Wynarka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+932,5307,Karoonda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,175.0,180.0,404.0
+933,5307,Karte,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+934,5307,Kulkami,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+935,5307,Lowaldie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+936,5307,Marama,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+937,5307,Mootatunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+938,5308,Copeville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+939,5308,Galga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+940,5308,Kalyan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+941,5308,Maggea,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+942,5308,Mantung,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+943,5308,Mercunda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+944,5308,Perponda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+945,5309,Borrika,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+946,5309,Halidon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+947,5309,Mindarie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+948,5309,Sandalwood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+949,5310,Caliph,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+950,5310,Wanbi,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+951,5311,Alawoona,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+952,5311,Billiatt,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+953,5311,Bugle Hut,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+954,5311,Malpas,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+955,5311,Meribah,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+956,5311,Paruna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+957,5311,Schell Well,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+958,5311,Taldra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+959,5311,Woodleigh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+960,5311,Wunkar,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+961,5312,Veitch,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+962,5320,Beatty,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+963,5320,Beaumonts,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+964,5320,Brenda Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+965,5320,Bundey,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+966,5320,Eba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+967,5320,Lindley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+968,5320,Maude,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+969,5320,Morgan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+970,5320,Morphetts Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+971,5320,Murbko,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+972,5320,North West Bend,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+973,5320,Stuart,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+974,5320,Wombats Rest,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+975,5321,Cadell,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+976,5321,Cadell Lagoon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+977,5322,Golden Heights,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,225.0,404.0
+978,5322,Qualco,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,175.0,404.0
+979,5322,Ramco,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+980,5322,Ramco Heights,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,260.0,404.0
+981,5322,Sunlands,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,150.0,332.5,404.0
+982,5330,Boolgun,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+983,5330,Devlins Pound,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+984,5330,Good Hope Landing,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+985,5330,Holder,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,205.0,404.0
+986,5330,Holder Siding,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+987,5330,Kanni,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+988,5330,Lowbank,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+989,5330,Markaranka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+990,5330,Overland Corner,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+991,5330,Pooginook,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+992,5330,Stockyard Plain,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+993,5330,Taylorville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+994,5330,Waikerie,Adelaide,South Australia,SA,140.0,210.0,210.0,400.0,185.0,172.0,240.0,330.0
+995,5330,Woolpunda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+996,5331,Kingston On Murray,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+997,5332,Moorook,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,220.0,404.0
+998,5332,Moorook South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+999,5332,Wappilka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1000,5332,Yinkanie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1001,5333,Bookpurnong,Adelaide,South Australia,SA,211.0,275.0,235.0,400.0,185.0,190.0,240.0,285.0
+1002,5333,Loxton,Adelaide,South Australia,SA,175.0,180.0,338.75,400.0,185.0,195.0,260.0,317.5
+1003,5333,Loxton North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1004,5333,Nangari,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1005,5333,New Residence,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1006,5333,Noora,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1007,5333,Pata,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1008,5333,Pyap,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1009,5333,Pyap West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1010,5333,Taplan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1011,5340,Mundic Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1012,5340,Murtho,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,196.5
+1013,5340,Paringa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,260.0,404.0
+1014,5340,Pike River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1015,5340,Wonuarra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1016,5341,Calperum,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1017,5341,Chaffey,Adelaide,South Australia,SA,211.0,245.0,338.75,400.0,185.0,292.5,230.0,404.0
+1018,5341,Cooltong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1019,5341,Crescent,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1020,5341,Renmark,Adelaide,South Australia,SA,211.0,180.0,338.75,400.0,185.0,230.0,290.0,206.0
+1021,5341,Renmark North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1022,5341,Renmark South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1023,5341,Renmark West,Adelaide,South Australia,SA,160.0,215.0,338.75,400.0,185.0,100.2,220.0,310.0
+1024,5341,Yamba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1025,5342,Monash,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,270.0,230.0
+1026,5343,Berri,Adelaide,South Australia,SA,180.0,185.0,338.75,400.0,185.0,240.0,230.0,307.5
+1027,5343,Gerard,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1028,5343,Gurra Gurra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1029,5343,Katarapko,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1030,5343,Lyrup,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,275.0,270.0
+1031,5343,Winkie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1032,5344,Glossop,Adelaide,South Australia,SA,150.0,210.0,338.75,400.0,185.0,292.5,450.0,404.0
+1033,5345,Barmera,Adelaide,South Australia,SA,140.0,175.0,338.75,400.0,185.0,220.0,250.0,265.0
+1034,5345,Loveday,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1035,5345,Spectacle Lake,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1036,5346,Cobdogla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,200.0,404.0
+1037,5350,Rosedale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1038,5350,Sandy Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1039,5351,Altona,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1040,5351,Barossa Goldfields,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1041,5351,Cockatoo Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,500.0
+1042,5351,Lyndoch,Adelaide,South Australia,SA,211.0,275.0,260.0,400.0,185.0,292.5,345.0,345.0
+1043,5351,Mount Crawford,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1044,5351,Pewsey Vale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1045,5351,Williamstown,Adelaide,South Australia,SA,211.0,275.0,285.0,400.0,185.0,270.0,290.0,404.0
+1046,5352,Bethany,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1047,5352,Gomersal,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1048,5352,Krondorf,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1049,5352,Rowland Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1050,5352,Stone Well,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1051,5352,Tanunda,Adelaide,South Australia,SA,211.0,230.0,287.5,400.0,185.0,235.0,295.0,387.5
+1052,5352,Vine Vale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1053,5353,Angaston,Adelaide,South Australia,SA,211.0,200.0,338.75,400.0,185.0,240.0,275.0,404.0
+1054,5353,Black Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1055,5353,Cambrai,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1056,5353,Flaxman Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1057,5353,Keyneton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,280.0
+1058,5353,Kongolia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1059,5353,Moculta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,404.0
+1060,5353,Mount Mckenzie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1061,5353,Penrice,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,272.5,530.0
+1062,5353,Sedan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1063,5353,Towitta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1064,5354,Bakara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1065,5354,Bakara Well,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1066,5354,Fisher,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1067,5354,Greenways Landing,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1068,5354,Langs Landing,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1069,5354,Marks Landing,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1070,5354,Naidia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1071,5354,Punyelroo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1072,5354,Sunnydale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1073,5354,Swan Reach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1074,5355,Daveyston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,420.0
+1075,5355,Ebenezer,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1076,5355,Light Pass,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+1077,5355,Marananga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1078,5355,Moppa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1079,5355,Nuriootpa,Adelaide,South Australia,SA,211.0,210.0,280.0,400.0,185.0,177.15,290.0,400.0
+1080,5355,Seppeltsfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1081,5355,Stockwell,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,404.0
+1082,5356,Annadale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1083,5356,Dutton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1084,5356,Dutton East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1085,5356,Sandleton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1086,5356,St Kitts,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1087,5356,Steinfeld,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1088,5356,Truro,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+1089,5357,Blanchetown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1090,5357,Mcbean Pound,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1091,5357,Moorundie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1092,5357,New Well,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1093,5357,Notts Well,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1094,5357,Paisley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1095,5357,Wigley Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1096,5360,Greenock,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,262.5,325.0
+1097,5360,Nain,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1098,5371,Morn Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1099,5371,Roseworthy,Adelaide,South Australia,SA,211.0,275.0,338.75,395.0,185.0,292.5,332.5,404.0
+1100,5371,Shea-Oak Log,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1101,5371,Templers,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1102,5372,Freeling,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,285.0,370.0
+1103,5373,Allendale North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1104,5373,Bagot Well,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1105,5373,Bethel,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1106,5373,Fords,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,295.0,404.0
+1107,5373,Hamilton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1108,5373,Kapunda,Adelaide,South Australia,SA,185.0,190.0,338.75,400.0,185.0,220.0,260.0,335.0
+1109,5373,Koonunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1110,5373,St Johns,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1111,5374,Australia Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1112,5374,Bower,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1113,5374,Brownlow,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1114,5374,Buchanan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1115,5374,Eudunda,Adelaide,South Australia,SA,150.0,275.0,338.75,400.0,185.0,220.0,230.0,404.0
+1116,5374,Frankton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1117,5374,Hampden,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1118,5374,Hansborough,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1119,5374,Julia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1120,5374,Mount Mary,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1121,5374,Neales Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1122,5374,Ngapala,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1123,5374,Peep Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1124,5374,Point Pass,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1125,5374,Sutherlands,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1126,5381,Brady Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1127,5381,Bright,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1128,5381,Emu Downs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1129,5381,Geranium Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1130,5381,Hallelujah Hills,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1131,5381,Robertstown,Adelaide,South Australia,SA,157.5,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1132,5381,Rocky Plain,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1133,5381,Worlds End,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1134,5381,Worlds End Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1135,5400,Magdalla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1136,5400,Pinkerton Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1137,5400,Wasleys,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1138,5400,Woolsheds,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+1139,5401,Alma,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1140,5401,Hamley Bridge,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,265.0,404.0
+1141,5401,Salter Springs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1142,5410,Linwood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1143,5410,Stockport,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1144,5411,Giles Corner,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1145,5411,Tarlee,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,290.0,404.0
+1146,5412,Navan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1147,5412,Rhynie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1148,5412,Riverton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,250.0,227.5,404.0
+1149,5412,Woolshed Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1150,5413,Apoinga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1151,5413,Black Springs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1152,5413,Marrabel,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1153,5413,Saddleworth,Adelaide,South Australia,SA,211.0,124.3,338.75,400.0,185.0,292.5,225.0,255.0
+1154,5413,Steelton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1155,5413,Tarnma,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1156,5413,Tothill Belt,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1157,5413,Tothill Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1158,5413,Waterloo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1159,5414,Manoora,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,220.0
+1160,5415,Mintaro,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,295.0,404.0
+1161,5415,Stanley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1162,5416,Farrell Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1163,5416,Porter Lagoon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1164,5417,Baldina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1165,5417,Booborowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1166,5417,Burra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,120.0,200.0,220.0,235.0
+1167,5417,Burra Eastern Districts,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1168,5417,Gum Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1169,5417,Hanson,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,165.0,404.0
+1170,5417,Koonoona,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1171,5417,Leighton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1172,5417,Mongolata,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1173,5417,North Booborowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1174,5418,Collinsville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1175,5418,Mount Bryan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1176,5419,Canowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1177,5419,Hallett,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1178,5419,Mount Bryan East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1179,5419,Pine Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1180,5419,Ulooloo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1181,5419,Willalo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1182,5419,Wonna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1183,5420,Canowie Belt,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1184,5420,Whyte Yarcowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1185,5421,Franklyn,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1186,5421,Terowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1187,5422,Cavenagh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1188,5422,Dawson,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1189,5422,Erskine,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1190,5422,Hardy,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1191,5422,Mannanarie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1192,5422,Minvalara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1193,5422,Oodla Wirra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1194,5422,Paratoo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1195,5422,Parnaroo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1196,5422,Peterborough,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,83.0,155.0,150.0
+1197,5422,Sunnybrae,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1198,5422,Ucolta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1199,5422,Yatina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1200,5431,Amyton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1201,5431,Black Rock,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1202,5431,Coomooroo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1203,5431,Eurelia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1204,5431,Hammond,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1205,5431,Johnburgh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1206,5431,Minburra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1207,5431,Morchard,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1208,5431,Orroroo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,170.0,404.0
+1209,5431,Pekina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1210,5431,Tarcowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1211,5431,Walloway,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1212,5431,Willowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1213,5431,Yalpara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1214,5432,Belton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1215,5432,Carrieton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1216,5432,Cradock,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1217,5432,Moockra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1218,5432,Yanyarrie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1219,5433,Bruce,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1220,5433,Quorn,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,150.0,230.0,225.0
+1221,5433,Saltia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1222,5433,Stephenston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1223,5433,Willochra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1224,5433,Yarrah,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1225,5434,Barndioota,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1226,5434,Hawker,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1227,5434,Kanyaka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1228,5440,Cockburn,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1229,5440,Manna Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1230,5440,Mingary,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1231,5440,Nackara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1232,5440,Olary,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1233,5440,Waukaringa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1234,5440,Yunta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1235,5451,Auburn,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,220.0,332.5,320.0
+1236,5451,Undalya,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1237,5452,Leasingham,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1238,5452,Watervale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,280.0,404.0
+1239,5453,Armagh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,410.0
+1240,5453,Barinia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1241,5453,Benbournie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1242,5453,Boconnoc Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1243,5453,Clare,Adelaide,South Australia,SA,170.0,275.0,287.5,400.0,185.0,230.0,270.0,337.5
+1244,5453,Emu Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1245,5453,Gillentown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1246,5453,Hill River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1247,5453,Hoyleton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1248,5453,Kybunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1249,5453,Penwortham,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1250,5453,Polish Hill River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1251,5453,Sevenhill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,330.0
+1252,5453,Spring Farm,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1253,5453,Spring Gully,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1254,5453,Stanley Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1255,5454,Andrews,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,150.0,332.5,404.0
+1256,5454,Broughton River Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1257,5454,Euromina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1258,5454,Hacklins Corner,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1259,5454,Mayfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1260,5454,Spalding,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1261,5454,Washpool,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1262,5455,Hilltown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,245.0
+1263,5460,Barabba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1264,5460,Owen,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,230.0,404.0
+1265,5460,Pinery,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1266,5460,Stockyard Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1267,5461,Balaklava,Adelaide,South Australia,SA,211.0,164.7,338.75,400.0,185.0,292.5,240.0,262.5
+1268,5461,Bowillia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1269,5461,Dalkey,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1270,5461,Erith,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1271,5461,Everard Central,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1272,5461,Goyder,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1273,5461,Halbury,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1274,5461,Hoskin Corner,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1275,5461,Mount Templeton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1276,5461,Saints,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1277,5461,Stow,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1278,5461,Watchman,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1279,5461,Whitwarta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1280,5462,Blyth,Adelaide,South Australia,SA,86.3,275.0,338.75,400.0,185.0,292.5,240.0,335.0
+1281,5464,Anama,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1282,5464,Brinkworth,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1283,5464,Bungaree,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1284,5464,Condowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1285,5464,Hart,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1286,5464,Koolunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,225.0,404.0
+1287,5464,Marola,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1288,5464,Rochester,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1289,5470,Yacka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1290,5471,Gulnare,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1291,5472,Georgetown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1292,5473,Gladstone,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,200.0,404.0
+1293,5480,Appila,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1294,5480,Laura,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1295,5480,Stone Hut,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1296,5481,Bangor,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1297,5481,Murray Town,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1298,5481,Wirrabara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1299,5481,Wongyarra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1300,5482,Booleroo Centre,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1301,5482,Wepowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1302,5483,Melrose,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,187.0,404.0
+1303,5485,Wilmington,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,190.0,404.0
+1304,5490,Caltowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1305,5490,Caltowie North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1306,5490,Caltowie West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1307,5491,Belalie East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1308,5491,Belalie North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1309,5491,Bundaleer Gardens,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1310,5491,Bundaleer North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1311,5491,Hornsdale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1312,5491,Jamestown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,200.0,260.0,200.0
+1313,5493,Yongala,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1314,5495,Baroota,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1315,5495,Germein Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1316,5495,Mambray Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1317,5495,Nectar Brook,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1318,5495,Port Flinders,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1319,5495,Port Germein,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1320,5501,Avon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1321,5501,Calomba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1322,5501,Dublin,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,260.0,404.0
+1323,5501,Lewiston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1324,5501,Long Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1325,5501,Lower Light,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1326,5501,Middle Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1327,5501,Parham,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1328,5501,Port Gawler,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,404.0
+1329,5501,Thompson Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1330,5501,Two Wells,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,350.0,365.0
+1331,5501,Webb Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1332,5501,Wild Horse Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1333,5501,Windsor,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1334,5502,Fischer,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1335,5502,Grace Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1336,5502,Korunye,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,404.0
+1337,5502,Mallala,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,205.0,404.0
+1338,5502,Red Banks,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1339,5502,Reeves Plains,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1340,5510,Lochiel,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1341,5520,Barunga Gap,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1342,5520,Bumbunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1343,5520,Burnsfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1344,5520,Gleeson Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1345,5520,Snowtown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,200.0,404.0
+1346,5520,Wokurna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1347,5521,Redhill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1348,5522,Fisherman Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1349,5522,Lower Broughton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1350,5522,Port Broughton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,225.0,320.0,404.0
+1351,5522,Ward Hill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1352,5523,Beetaloo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1353,5523,Clements Gap,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1354,5523,Crystal Brook,Adelaide,South Australia,SA,85.4,130.0,338.75,400.0,185.0,292.5,207.5,280.0
+1355,5523,Huddleston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1356,5523,Merriton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1357,5523,Narridy,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1358,5523,Nurom,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1359,5523,Wandearah,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1360,5523,Wandearah East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1361,5540,Bungama,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,230.0,404.0
+1362,5540,Coonamia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1363,5540,Napperby,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,290.0
+1364,5540,Nelshaby,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1365,5540,Pirie East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1366,5540,Port Davis,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1367,5540,Port Pirie,Adelaide,South Australia,SA,157.5,180.0,338.75,400.0,112.0,190.0,210.0,300.0
+1368,5540,Port Pirie South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,260.0,404.0
+1369,5540,Port Pirie West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,180.0,332.5,404.0
+1370,5540,Risdon Park,Adelaide,South Australia,SA,120.0,72.0,338.75,400.0,185.0,170.0,176.6,255.0
+1371,5540,Risdon Park South,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1372,5540,Solomontown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,160.0,210.0,404.0
+1373,5540,Telowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1374,5540,Warnertown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,195.0,404.0
+1375,5550,Beaufort,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1376,5550,Bowmans,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1377,5550,Inkerman,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1378,5550,Kallora,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1379,5550,Nantawarra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1380,5550,Port Wakefield,Adelaide,South Australia,SA,211.0,275.0,260.0,400.0,185.0,292.5,260.0,240.0
+1381,5550,Proof Range,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1382,5550,South Hummocks,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1383,5552,Kainton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1384,5552,Paskeville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1385,5552,Sunnyvale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1386,5552,Thrington,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1387,5554,Boors Plain,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1388,5554,Cunliffe,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1389,5554,Jericho,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1390,5554,Jerusalem,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1391,5554,Kadina,Adelaide,South Australia,SA,211.0,190.0,280.0,400.0,185.0,205.0,265.0,310.0
+1392,5554,Matta Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1393,5554,New Town,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,190.0,404.0
+1394,5554,Thomas Plain,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1395,5554,Wallaroo Mines,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,230.0,240.0,404.0
+1396,5554,Willamulka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1397,5555,Alford,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1398,5555,Collinsfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1399,5555,Dowling,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1400,5555,Hope Gap,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1401,5555,Kulpara,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1402,5555,Lake View,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1403,5555,Melton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1404,5555,Mundoora,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1405,5555,Tickera,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1406,5555,Winulta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1407,5556,North Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,170.0,240.0,320.0
+1408,5556,Wallaroo,Adelaide,South Australia,SA,150.0,200.0,327.5,400.0,185.0,235.0,262.5,325.0
+1409,5556,Wallaroo Plain,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1410,5556,Warburto,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1411,5558,Agery,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1412,5558,Cross Roads,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1413,5558,East Moonta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1414,5558,Hamley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1415,5558,Kooroona,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1416,5558,Moonta,Adelaide,South Australia,SA,211.0,160.0,338.75,400.0,185.0,142.45,260.0,360.0
+1417,5558,Moonta Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,260.0,330.0
+1418,5558,Moonta Mines,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1419,5558,Nalyappa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1420,5558,North Moonta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,210.0,332.5,404.0
+1421,5558,North Yelta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1422,5558,Paramatta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1423,5558,Port Hughes,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,240.0,270.0,330.0
+1424,5558,Yelta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1425,5560,Bute,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,255.0,404.0
+1426,5560,Ninnes,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1427,5570,Clinton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1428,5570,Clinton Centre,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1429,5570,Port Clinton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,230.0,332.5,404.0
+1430,5570,Price,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,240.0,404.0
+1431,5571,Ardrossan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,265.0,404.0
+1432,5571,Black Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1433,5571,Cunningham,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1434,5571,James Well,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1435,5571,Petersville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1436,5571,Pine Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1437,5571,Rogues Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1438,5571,Sandilands,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1439,5571,Tiddy Widdy Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,300.0,404.0
+1440,5572,Arthurton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1441,5572,Port Arthur,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1442,5573,Balgowan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1443,5573,Chinaman Wells,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1444,5573,Maitland,Adelaide,South Australia,SA,211.0,150.0,338.75,400.0,185.0,175.0,332.5,257.5
+1445,5573,Point Pearce,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1446,5573,Port Victoria,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,150.0,280.0,404.0
+1447,5573,South Kilkerran,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1448,5573,Urania,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1449,5573,Wauraltee,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1450,5573,Weetulta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1451,5573,Yorke Valley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1452,5575,Bluff Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,404.0
+1453,5575,Brentwood,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1454,5575,Corny Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1455,5575,Couch Beach,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1456,5575,Hardwicke Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1457,5575,Koolywurtie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1458,5575,Marion Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,240.0,404.0
+1459,5575,Minlaton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,205.0,250.0
+1460,5575,Point Souttar,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1461,5575,Point Turton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,205.0,190.0,404.0
+1462,5575,Port Julia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1463,5575,Port Rickaby,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1464,5575,Ramsay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1465,5575,Stenhouse Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1466,5575,The Pines,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1467,5575,White Hut,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1468,5575,Wool Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1469,5576,Honiton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1470,5576,Port Moorowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1471,5576,Yorketown,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1472,5577,Foul Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1473,5577,Inneston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1474,5577,Warooka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,220.0,404.0
+1475,5580,Curramulka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1476,5581,Port Vincent,Adelaide,South Australia,SA,211.0,180.0,338.75,400.0,185.0,292.5,300.0,260.0
+1477,5581,Sheaoak Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1478,5582,Port Giles,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1479,5582,Stansbury,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,220.0,404.0
+1480,5583,Coobowie,Adelaide,South Australia,SA,211.0,140.0,338.75,400.0,185.0,292.5,195.0,404.0
+1481,5583,Edithburgh,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1482,5600,Cultana,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1483,5600,Iron Baron,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1484,5600,Mullaquana,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1485,5600,Point Lowly,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1486,5600,Port Bonython,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1487,5600,Whyalla,Adelaide,South Australia,SA,150.0,130.0,275.0,400.0,185.0,150.0,242.5,325.0
+1488,5600,Whyalla Playford,Adelaide,South Australia,SA,180.0,200.0,338.75,400.0,185.0,235.0,267.5,404.0
+1489,5601,Iron Knob,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,80.0,332.5,404.0
+1490,5602,Cowell,Adelaide,South Australia,SA,211.0,275.0,260.0,265.0,160.0,292.5,250.0,404.0
+1491,5602,Lucky Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1492,5602,Mangalo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1493,5602,Midgee,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1494,5602,Miltalie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1495,5602,Minbrie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1496,5602,Mitchellville,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1497,5602,Port Gibbon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1498,5603,Arno Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,160.0,200.0,404.0
+1499,5603,Hincks,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1500,5603,Verran,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1501,5603,Wharminda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1502,5604,Port Neill,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,225.0,404.0
+1503,5605,Butler,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1504,5605,Tumby Bay,Adelaide,South Australia,SA,211.0,185.0,220.0,400.0,185.0,220.0,250.0,300.0
+1505,5606,Kirton Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1506,5606,Port Lincoln,Adelaide,South Australia,SA,162.5,220.0,330.0,400.0,150.0,252.5,290.0,360.0
+1507,5607,Boston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,340.0,400.0
+1508,5607,Brooker,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1509,5607,Charlton Gully,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1510,5607,Coffin Bay,Adelaide,South Australia,SA,165.0,275.0,338.75,400.0,185.0,292.5,332.5,285.0
+1511,5607,Coomunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1512,5607,Coulta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1513,5607,Duck Ponds,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1514,5607,Fountain,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1515,5607,Green Patch,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1516,5607,Hawson,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1517,5607,Horse Peninsula,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1518,5607,Karkoo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1519,5607,Kellidie Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1520,5607,Kiana,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1521,5607,Koppio,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1522,5607,Lincoln National Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1523,5607,Lipson,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1524,5607,Louth Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,290.0,404.0
+1525,5607,Mitchell,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1526,5607,Moody,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1527,5607,Mount Drummond,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1528,5607,Mount Dutton Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1529,5607,Mount Hope,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1530,5607,Murdinga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1531,5607,North Shields,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1532,5607,Peachna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1533,5607,Pearlah,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1534,5607,Poonindie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1535,5607,Port Lincoln,Adelaide,South Australia,SA,162.5,220.0,330.0,400.0,150.0,252.5,290.0,360.0
+1536,5607,Sheringa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1537,5607,Sleaford,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1538,5607,Sullivan,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1539,5607,Tooligie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1540,5607,Tulka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,320.0,404.0
+1541,5607,Uley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1542,5607,Ungarra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1543,5607,Venus Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1544,5607,Wangary,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,200.0
+1545,5607,Wanilla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1546,5607,Warrachie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1547,5607,Warrow,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1548,5607,Warunda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1549,5607,Whites Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1550,5607,Whites River,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1551,5607,Yallunda Flat,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1552,5608,Whyalla Norrie,Adelaide,South Australia,SA,85.0,155.0,175.0,400.0,185.0,167.06,150.0,280.0
+1553,5608,Whyalla Norrie East,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1554,5608,Whyalla Norrie North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1555,5608,Whyalla Stuart,Adelaide,South Australia,SA,105.0,275.0,338.75,400.0,185.0,292.5,170.0,305.0
+1556,5609,Whyalla Jenkins,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,250.0,250.0,270.0
+1557,5630,Edillilie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1558,5631,Cockaleechie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1559,5631,Cummins,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1560,5632,Kapinnie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1561,5632,Yeelanna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1562,5633,Boonerdo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1563,5633,Lock,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,125.0,404.0
+1564,5640,Campoona,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,170.0,404.0
+1565,5640,Cleve,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,200.0,404.0
+1566,5640,Jamieson,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1567,5640,Waddikee,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1568,5641,Barna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1569,5641,Buckleboo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1570,5641,Caralue,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1571,5641,Cortlinye,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1572,5641,Cunyarie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1573,5641,Kelly,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1574,5641,Kimba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,150.0,404.0
+1575,5641,Moseley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1576,5641,Panitya,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1577,5641,Pinkawillinie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1578,5641,Solomon,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1579,5641,Wilcherry,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1580,5641,Yalanda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1581,5642,Darke Peak,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1582,5642,Hambidge,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1583,5642,Kielpa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1584,5642,Murlong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1585,5642,Rudall,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1586,5650,Cootra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1587,5650,Koongawa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1588,5650,Warramboo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1589,5651,Kyancutta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1590,5652,Paney,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1591,5652,Wudinna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,200.0,404.0
+1592,5654,Cocata,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1593,5654,Karcultaby,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1594,5654,Minnipa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,130.0,404.0
+1595,5654,Mount Damper,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1596,5655,Bockelberg,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1597,5655,Kaldoonera,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1598,5655,Poochera,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1599,5655,Pygery,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1600,5660,Chilpenunda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1601,5660,Cungena,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1602,5661,Koolgera,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1603,5661,Pimbaacla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1604,5661,Wallala,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1605,5661,Wirrulla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1606,5661,Yantanabie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1607,5670,Bramfield,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1608,5670,Colton,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1609,5670,Coolillie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1610,5670,Elliston,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,200.0,404.0
+1611,5670,Kappawanta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1612,5670,Mount Joy,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1613,5670,Mount Wedge,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1614,5670,Palkagee,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1615,5670,Polda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1616,5670,Talia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1617,5670,Ulyerra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1618,5671,Baird Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1619,5671,Calca,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1620,5671,Colley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1621,5671,Mount Cooper,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1622,5671,Port Kenny,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1623,5671,Tyringa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1624,5671,Witera,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1625,5680,Carawa,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1626,5680,Chandada,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1627,5680,Chinbingina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1628,5680,Eba Anchorage,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1629,5680,Haslam,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1630,5680,Inkster,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1631,5680,Laura Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1632,5680,Maryvale,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1633,5680,Mudamuckla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,220.0,404.0
+1634,5680,Nunjikompita,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1635,5680,Perlubie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1636,5680,Petina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1637,5680,Piednippie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1638,5680,Puntabie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1639,5680,Pureba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1640,5680,Sceale Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1641,5680,Smoky Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,300.0
+1642,5680,Streaky Bay,Adelaide,South Australia,SA,160.0,190.0,338.75,400.0,185.0,195.0,260.0,260.0
+1643,5680,Westall,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1644,5680,Yanerbie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1645,5690,Bookabie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1646,5690,Ceduna,Adelaide,South Australia,SA,200.0,175.0,338.75,400.0,200.0,292.5,280.0,330.0
+1647,5690,Charra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1648,5690,Coorabie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1649,5690,Denial Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1650,5690,Fowlers Bay,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1651,5690,Kalanbi,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1652,5690,Koonibba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1653,5690,Maltee,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1654,5690,Merghiny,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1655,5690,Nadia,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1656,5690,Nundroo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1657,5690,Penong,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1658,5690,Thevenard,Adelaide,South Australia,SA,235.0,200.0,338.75,400.0,185.0,230.0,270.0,404.0
+1659,5690,Uworra,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1660,5690,Wandana,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1661,5690,Watraba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1662,5690,White Well Corner,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1663,5690,Yalata,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1664,5700,Miranda,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1665,5700,Mundallio,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1666,5700,Port Augusta,Adelaide,South Australia,SA,177.5,185.0,270.0,400.0,185.0,230.0,260.0,320.0
+1667,5700,Port Augusta North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1668,5700,Port Augusta West,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,250.0,455.0
+1669,5700,Port Paterson,Adelaide,South Australia,SA,130.0,160.95,220.0,400.0,132.0,179.6,180.0,340.0
+1670,5700,Wami Kata,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1671,5710,Commissariat Point,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1672,5710,Cook,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1673,5710,Glendambo,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1674,5710,Kingoonya,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1675,5710,Nonning,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1676,5710,Port Augusta,Adelaide,South Australia,SA,177.5,185.0,270.0,400.0,185.0,230.0,260.0,320.0
+1677,5710,Stirling North,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,175.0,285.0,365.0
+1678,5710,Tarcoola,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1679,5710,Winninowie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1680,5710,Woolundunga,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1681,5720,Pimba,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1682,5720,Woomera,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1683,5722,Andamooka,Adelaide,South Australia,SA,200.0,220.0,338.75,400.0,87.5,150.0,200.0,335.0
+1684,5723,Coober Pedy,Adelaide,South Australia,SA,211.0,160.0,200.0,400.0,185.0,140.0,227.5,225.0
+1685,5724,Marla,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1686,5724,Mintabie,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1687,5725,Olympic Dam,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,220.0,404.0
+1688,5725,Roxby Downs,Adelaide,South Australia,SA,200.0,297.5,350.0,400.0,185.0,240.0,330.0,420.0
+1689,5730,Beltana,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1690,5730,Blinman,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1691,5730,Parachilna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1692,5731,Coopers Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1693,5731,Cordillo Downs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1694,5731,Durham Downs,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1695,5731,Innamincka,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1696,5731,Leigh Creek,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1697,5731,Lyndhurst,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1698,5731,Merty Merty,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1699,5731,Moolawatana,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1700,5731,Witchelina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1701,5732,Copley,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1702,5732,Nepabunna,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1703,5733,Farina,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1704,5733,Marree,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1705,5734,Oodnadatta,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1706,5800,Adelaide,Adelaide,South Australia,SA,305.0,450.0,550.0,400.0,162.5,425.0,450.0,452.5
+1707,5810,Adelaide,Adelaide,South Australia,SA,305.0,450.0,550.0,400.0,162.5,425.0,450.0,452.5
+1708,5839,Adelaide,Adelaide,South Australia,SA,305.0,450.0,550.0,400.0,162.5,425.0,450.0,452.5
+1709,5942,Regency Park,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
+1710,5950,Adelaide Airport,Adelaide,South Australia,SA,211.0,275.0,338.75,400.0,185.0,292.5,332.5,404.0
